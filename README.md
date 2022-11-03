@@ -30,7 +30,7 @@ YouTube.com clone which will provide real time video search results along with n
 
 Check out the Deployed link
 
-https://lighthearted-moonbeam-b81691.netlify.app/
+[https://lighthearted-moonbeam-b81691.netlify.app/](https://lighthearted-moonbeam-b81691.netlify.app/)
 ## Tech Stack
 
 **Tech Used:** Javasript, HTML, CSS
